@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+  margin: auto;
+}
+
+.container {
+
+  margin:auto;
+  margin-top: 20px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  padding: 20px;
+  background-color: rgba(178, 199, 212, 0.712);
+  width: 20%;
+}
